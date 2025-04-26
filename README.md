@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-Here’s a concise and professional GitHub biography for you:
 
 👋 Hi, I’m Sheld!
 
